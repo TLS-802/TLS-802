@@ -2,7 +2,7 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/Zxr112553438/Zxr112553438/blob/22e935429300b8642891ca6a08d1b492d5105ac0/JPG/TLS-801.jpg" />
+<img align="right" alt="GIF" src="https://github.com/Zxr112553438/Zxr112553438/blob/f0d3820332ad88bd442fbf1a6710354c29957ef4/TLS-801.jpg" />
 
 ### 驼铃电商社
 - 💬 社长是一位抖店运营--5年经验
