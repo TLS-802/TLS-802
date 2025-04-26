@@ -8,7 +8,7 @@
 - 💬 社长是一位抖店运营--5年经验
 - 💬 右边是 我的个人微信 欢迎关注。。。
 #### 社长制作的电商工具   
-- 💬 2025年[电商知识总库](https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW?from=from_copylink)
-- 💬 多平台[电商补单计算器](https://dy.199908.top/)
-- 💬 商家版+达人版[ROI出价计算器](https://sj.199908.top/)
-- 💬 全平台可发[礼品网](http://tb.88daifa.com)（新注册用户，找社长领 10 元体验金）
+- 💬  [2025年电商知识总库](https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW?from=from_copylink)
+- 💬  [多平台电商补单计算器](https://dy.199908.top/)
+- 💬  [商家+达人ROI出价计算器](https://sj.199908.top/)
+- 💬  [全平台可发礼品网](http://tb.88daifa.com)（新注册用户，找社长领 10 元体验金）
