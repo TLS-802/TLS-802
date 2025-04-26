@@ -1,25 +1,12 @@
 <div align="center">
-
-  <img src="./public/favicon.png" alt="logo" width="256px" height="auto">
   <h1> oba live tool </h1>
   <p> 抖音小店/巨量百应/抖音团购/小红书直播小工具 </p>
-  <br>
-
-![GitHub Release][github release badge]
-![GitHub Release Date][github release date badge]
-![GitHub][github license badge]
-
 </div>
 
 ---
 
 ## 📸 界面预览
 
-![主界面预览](./screenshot/main_page.png)
-
-![ai](./screenshot/ai_assistant.png)
-
-![自动回复](./screenshot/auto_reply_new.png)
 
 ## ✨ 功能
 
