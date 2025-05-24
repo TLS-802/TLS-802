@@ -12,6 +12,6 @@
 #### 社长制作的电商工具   
 - 💬  [2025年电商知识总库](https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW?from=from_copylink)
 - 💬  [多平台电商补单计算器](https://dy.199908.top/)
-- 💬  [商家+达人ROI出价计算器](https://sj.199908.top/)
-- 💬  [全平台可发礼品网](http://tb.88daifa.com)
+- 💬  [ROI与店铺利润计算器](https://sj.199908.top/)
+- 💬  [全平台可发靠谱礼品网](http://tb.88daifa.com)
 -  （新注册用户，找社长领 10 元体验金）
