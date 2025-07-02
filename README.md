@@ -11,7 +11,6 @@
 - 💬 组建了电商交流群、商家互助互补群
 
 #### 社长制作的电商工具   
-- 💬  [驼铃社电商知识库2025](https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW?from=from_copylink)  <- 点此进入
-- 💬  [多平台电商补单计算器](https://dy.199908.top)  <- 点此进入
-- 💬  [全平台可发靠谱礼品网](http://tb.88daifa.com)  <- 点此进入
--  （新注册用户，找社长领 10 元体验金）
+- 💬  [驼铃电商知识库](https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW?from=from_copylink)  <- 点此进入
+- 💬  [驼铃电商百宝箱](https://dy.199908.top)  <- 点此进入
+- 💬  [驼铃电商礼品网](http://tb.88daifa.com)  <- 点此进入
